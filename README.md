@@ -1,1 +1,1 @@
-# Stringmethods
+# Stringmethodes
